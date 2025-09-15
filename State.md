@@ -19,7 +19,7 @@ Update on the main thread (UI updates).
 
 <h2>Example: Counter — step-wise (copy-paste runnable)</h2>
 
-    ```swift
+```swift
 import SwiftUI
 
 @main
@@ -79,3 +79,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+    
+```
